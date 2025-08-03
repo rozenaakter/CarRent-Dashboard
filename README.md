@@ -28,3 +28,8 @@
 
 
 ##  How to run the project
+- `git clone https://github.com/rozenaakter/CarRent-Dashboard.git`
+- `go to the project directory`
+- `cd CarRent-Dashboard`
+- `npm install`
+- `npm run dev`
